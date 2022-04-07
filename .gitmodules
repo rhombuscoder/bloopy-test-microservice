@@ -1,0 +1,3 @@
+[submodule "Bloopy"]
+	path = Bloopy
+	url = https://github.com/rhombuscoder/Bloopy.git
